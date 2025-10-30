@@ -58,7 +58,7 @@ const Hero = () => {
 
             {/* Technologies */}
             <div className="pt-8">
-              <p className="text-gray-500 text-sm mb-4">We use only modern technologies</p>
+              <p className="text-gray-500 text-sm mb-4">We use only modern technologies ASD</p>
               <div className="flex flex-wrap gap-4">
                 <div className="flex items-center space-x-2 bg-white px-3 py-2 rounded-lg shadow-sm">
                   <span className="text-blue-600 font-mono text-sm">#react</span>

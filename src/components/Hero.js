@@ -89,7 +89,7 @@ const Hero = () => {
           <div className="flex justify-center lg:justify-end">
             <div className="w-96 h-96 relative">
               <img 
-                src="https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" 
+                src="https://images.pexels.com/photos/3184460/pexels-photo-3184460.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" 
                 alt="3D Abstract Illustration" 
                 className="w-full h-full object-contain"
               />
